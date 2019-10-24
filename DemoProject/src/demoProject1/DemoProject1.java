@@ -8,10 +8,12 @@ public class DemoProject1 {
 			"C:\\Users\\T440s\\Downloads\\CucumberSelenium (2) (2)\\cucumberSelenium\\src\\test\\resources\\drivers",
 			null);
 	driver = new ChromeDriver();
-	driver.get("https://www.zoho.com");
+	driver.get("google.com")
+}
+  // this is for test only
     
 
-}
+
 
 	
 
